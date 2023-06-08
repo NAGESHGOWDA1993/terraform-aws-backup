@@ -435,7 +435,7 @@ This project is maintained and funded by [Cloud Posse, LLC][website]. Like it? P
 
 [![Cloud Posse][logo]][website]
 
-We're a [DevOps Professional Services][hire] company based in Los Angeles, CA. We ❤️  [Open Source Software][we_love_open_source].
+We're a [DevOps Professional Services][hire] company based in Los Angeles, CA. We ❤️✈  [Open Source Software][we_love_open_source].
 
 We offer [paid support][commercial_support] on all of our projects.
 
